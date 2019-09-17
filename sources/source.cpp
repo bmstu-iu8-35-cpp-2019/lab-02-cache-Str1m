@@ -94,7 +94,7 @@ int main() {
     std::cout << "investigation" << std::endl;
     std::cout << "    travel_order: Random" << std::endl;
     std::cout << "    experiments:" << std::endl;
-    for (size_t size = 65536 / 4; size <= 4096 * 2 * 1024 / 4; size *= 2) {
+    for (int size = 65536 / 4; size <= 4096 * 2 * 1024 / 4; size *= 2) {
         int size_s = size / Step;
         int *array = new int[size]();
         std::vector<int> buf(size_s);
