@@ -78,4 +78,8 @@ investigation:                                       |  investigation:
 ...                                                  |  ...
 ```
 
-⚠️ В отчет также необходимо добавить общий график с результатами всех исследований. ⚠️
+
+![Прямой обход](https://github.com/bmstu-iu8-35-cpp-2019/lab-02-cache-Str1m/blob/lab/pictures/Forward.png)
+![Обратный обход](https://github.com/bmstu-iu8-35-cpp-2019/lab-02-cache-Str1m/blob/lab/pictures/Reverse.png)
+![Рандомный обход](https://github.com/bmstu-iu8-35-cpp-2019/lab-02-cache-Str1m/blob/lab/pictures/Random.png)
+
